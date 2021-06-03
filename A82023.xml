@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a brief treatise of the proper subject and administration of Baptism: Some years since sent by the author to Thomas late Lord Bishop of Lincoln. With a prefatory epistle thereunto, and the scriptures cited at large</title>
+            <author>Dean, Richard, fl. 1693.</author>
+         </titleStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82023</idno><idno type="EEBO-CITATION">99900016</idno>
+  <idno type="VID">137204</idno>
+  <idno type="EEBO-PROQUEST">2264177909</idno>
+  
+            <idno type="STC">Wing D497</idno>
+            <idno type="STC">ESTC R231711</idno>
+            <idno type="PROQUEST">99900016</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900016e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2494:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a brief treatise of the proper subject and administration of Baptism: Some years since sent by the author to Thomas late Lord Bishop of Lincoln. With a prefatory epistle thereunto, and the scriptures cited at large</title>
+                  <author>Dean, Richard, fl. 1693.</author>
+               </titleStmt>
+               <extent>xxiv, 64 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author; and are to be sold by Thomas Fabian, at the Bible in Cheapside near Breadstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Ri. Deane.</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137204:1"/>
+            <p>A COPY of a <hi>Brief Treatise</hi> OF The Proper Subject and Administration of BAPTISM.</p>
+            <p>Some Years since sent by the Author to <hi>Thomas</hi> late Lord Bishop of <hi>Lincoln.</hi>
+            </p>
+            <p>With a Prefatory Epistle thereunto, And the Scriptures cited at large.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author; And are to be sold by <hi>Thomas Fabian,</hi> at the Bible in <hi>Cheapside</hi> near <hi>Breadstreet,</hi> 1693.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:137204:2"/>
+            <pb n="iii" facs="tcp:137204:2"/>
+            <head>To the Reverend Mr. RICHARD TAYLOR, <hi>Pastor of a Separate Congregation in</hi> London.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>FOR that you have admitted a Branch of my Family into Fel<g ref="char:EOLhyphen"/>lowship with the Church whereof you are Pastor; or for that be<g ref="char:EOLhyphen"/>fore such admission, you required a Pro<g ref="char:EOLhyphen"/>fession of her Faith, and subjection to our Lord's Precept of Baptism, you have not in any of these things given to me (who am reputed to be of another Sect) any cause of Regret or Complaint; but (on the contrary) I rejoice in it: For, (with Humility, to speak in the Apo<g ref="char:EOLhyphen"/>stle's Phrase) <hi>I rejoice greatly to find my Children walking in the Truth; and that the same Faith which dwelt in their Grandmother and Mother, is</hi> (I am perswaded) <hi>in them also.</hi>
+            </p>
+            <pb n="iv" facs="tcp:137204:3"/>
+            <p> But in that you did not (as I am in<g ref="char:EOLhyphen"/>formed) baptize your Adult Disciple in such sort as the Precept of our Lord, the Doctrine and Example of his Apo<g ref="char:EOLhyphen"/>stles and Ministers require and teach: For this it is that I intend herein (in a friendly manner, and for the Truth's Sake) to expostulate with you.</p>
+            <p>Yet that our different Notions herein, or in other Religious Opinions of like Nature, may not set us, or any other sincere Christians, at a greater distance from each other than the Case will bear, I crave leave (before I enter upon any Expostulation) to premise and offer to your serious Consideration the ensuing Particulars.</p>
+            <p n="1">1. That altho it be required of eve<g ref="char:EOLhyphen"/>ry Believer, and Assembly or Church of Believers, that all the Ordinances and Commands of the Lord be observed as they were delivered; and every Error in Opinion, Defect in Order, or Neglect, be faulty, and ought to be corrected; yet it is not necessary to the Being or Constitution of a Believer, or particu<g ref="char:EOLhyphen"/>lar Assembly of Christians, that every thing which is commanded, be so done. Wood, Hay and Stubble (such Materi<g ref="char:EOLhyphen"/>als
+<pb n="v" facs="tcp:137204:3"/>as are not fit, and shall be consumed) may be laid upon a right Foundation, and yet the Foundation remain firm.</p>
+            <p n="2">2. As External Circumcision did here<g ref="char:EOLhyphen"/>tofore qualify a Jew or Proselyte, order<g ref="char:EOLhyphen"/>ly walking, to claim all the Privileges properly belonging to him with the Jewish Church, or any Synagogue of the Jews: So Internal Circumcision qua<g ref="char:EOLhyphen"/>lifies every Believer (holding Faith and a good Conscience) for every Act of Worship, with other Christians, or Christian Assemblies, which belong unto him as a private Christian, and which he can perform in his proper place with Understanding.</p>
+            <p n="3">3. The open and constant observance of positive Laws, respecting instituted Worship, is liable to manifold Interrup<g ref="char:EOLhyphen"/>tions from without, as natural Infirmi<g ref="char:EOLhyphen"/>ties, unnatural Persecutions, Banish<g ref="char:EOLhyphen"/>ments, Imprisonments, humane Prohi<g ref="char:EOLhyphen"/>bitions, and the like; whereby such as would otherwise constantly observe them are prevented. The Line of perpe<g ref="char:EOLhyphen"/>tual visible Succession to the Ministry may be interrupted. But the observance of the Law written in the Heart (where<g ref="char:EOLhyphen"/>by every Person fearing God, is obliged
+<pb n="vi" facs="tcp:137204:4"/>to honour him, not only in Acts of Natural, but also in such Acts of Insti<g ref="char:EOLhyphen"/>tuted Worship as he understands to be his Duty, and can have opportunity to perform) is not so liable to external In<g ref="char:EOLhyphen"/>terruptions; but that there may be such Spiritual Sacrifices as are well-pleasing to God offered to him continually, and thereby Glory given to him in the Church throughout all Ages.</p>
+            <p n="4">4. That the Being and perpetual Suc<g ref="char:EOLhyphen"/>cession of the Christian Church Catholick Militant throughout all Generations, (from its first planting, to our Lord's second appearing) against which the Gates of Hell cannot prevail, consists of such individual Members as are inter<g ref="char:EOLhyphen"/>nally sanctified by the Holy Spirit, and called by the Gospel of our Lord, and depends not upon any one sole external Sign, so as to comprehend no others than such only as come under it; nor is it li<g ref="char:EOLhyphen"/>mited to any one certain Place.</p>
+            <p n="5">5. A competent Number of such san<g ref="char:EOLhyphen"/>ctified Persons (who love and fear God, and have the Characters and Features of a new Creature engraven on their Hearts) joining together, and assem<g ref="char:EOLhyphen"/>bling to celebrate the Worship of God,
+<pb n="vii" facs="tcp:137204:4"/>and observe his Ordinances, are a par<g ref="char:EOLhyphen"/>ticular Church, or integral part of the Church-Universal, and may elect fit Per<g ref="char:EOLhyphen"/>sons to be Governours and Pastors, to Rule and Administer all Ordinances amongst them. And though such As<g ref="char:EOLhyphen"/>semblies may be deficient as to their compleat Order, Government, and ex<g ref="char:EOLhyphen"/>ternal Ministrations; yet may they be and continue right as to their Church-State, with respect to their first Consti<g ref="char:EOLhyphen"/>tution.</p>
+            <p n="6">6. Many such Assemblies, as well as Members in each Assembly, may be, who in some Opinions and Matters re<g ref="char:EOLhyphen"/>lating to Divine Worship, differ from each other, and yet agreeing in the Fundamental Articles of Christianity: and knowing that in other Matters, each Person's Understanding, Conscience and Faith, is to himself a Guide, as to his chusing or refusing such external Forms or Modes of Worship as are used by others: there ought to be a mutual for<g ref="char:EOLhyphen"/>bearance of each other in Love, and a joint Communion with each other main<g ref="char:EOLhyphen"/>tained, in all things wherein they are of the same Mind, and agree to walk toge<g ref="char:EOLhyphen"/>ther by the same Rule. <hi>Fr. Junius</hi> in
+<pb n="viii" facs="tcp:137204:5"/>his <hi>Eirenicum</hi> on <hi>Psal.</hi> 122.3. for re<g ref="char:EOLhyphen"/>conciling his Christian Brethren in his time disagreeing, puts and resolves this Question; Where is Christ? but where his Spirit is: And where is the Spirit? but where the Life of Christ is: And where is the Life of Christ? but where he lives, that is, in his Body: And where is that one Body? unless where there is a Consent between the jointly living Members of the Body, concern<g ref="char:EOLhyphen"/>ing one Head, one Spirit, and one Life.</p>
+            <p n="7">7. No Minister, or Member of any Church rightly constituted, can excuse himself in his varying from the prescript Form of any part of Divine Worship, nor in his neglect of any part thereof, which he knows to be his Duty to per<g ref="char:EOLhyphen"/>form; because the Assembly in general, whereof he is Minister or Member, do so. But in either of these Cases, as to such particular Acts of Worship, may and ought to join with any other Assem<g ref="char:EOLhyphen"/>bly, who perform such Acts of Worship in right manner, without a total Sepa<g ref="char:EOLhyphen"/>ration, or making a Schism from that Assembly, whereof he is in a more pecu<g ref="char:EOLhyphen"/>liar manner a Member.</p>
+            <p n="8">
+               <pb n="ix" facs="tcp:137204:5"/> 8. The Holy Scriptures are therefore the more excellent Instructors in Righ<g ref="char:EOLhyphen"/>teousness, because they do teach us, not only in general to know the Will of God; but also even among things com<g ref="char:EOLhyphen"/>manded by him, to distinguish and give preference to some before others, as be<g ref="char:EOLhyphen"/>ing in their own Nature of greater weight, and tending more than others to promote the genuine and proper End and Design of the Gospel: That is, to manifest and advance the Riches and Glory of Divine Grace, in reconciling and making Peace between God and Man, and between every Man and his Neighbour; to restore and preserve the Order of Nature and Civil Government among Men, by turning the Hearts of the Fathers to their Children, and of the Children to their Fathers, and of the Disobedient to the Wisdom of the Just; that God may not come and smite the Earth with a Curse; and that such as have tasted that God is Gracious, should not only by their Doctrine and Example, but also by frequent Suppli<g ref="char:EOLhyphen"/>cations, Prayers and Intercessions, ap<g ref="char:EOLhyphen"/>ply themselves to the Throne of Grace, and improve their Interest there for a<g ref="char:EOLhyphen"/>voiding
+<pb n="x" facs="tcp:137204:6"/>the Maledictions threatned, and obtaining and enjoying the Blessings pro<g ref="char:EOLhyphen"/>mised, that all Flesh may see the Salva<g ref="char:EOLhyphen"/>tion of God. To this End it is that we are instructed which is the first and greatest Command, and which is the Se<g ref="char:EOLhyphen"/>cond, and like to it whereon all the Law and the Prophets depend, which is the first Commandment with promise; Why we should first learn to shew Piety at Home, and why we should [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] first of all things make Supplica<g ref="char:EOLhyphen"/>tions, Prayers, and Intercessions for all Men. These things, both Ministers and every private Christian ought to have always in their Eye, as the principal Things they aim at in their whole Re<g ref="char:EOLhyphen"/>ligious Course. But as for Acts of in<g ref="char:EOLhyphen"/>stituted Worship, relating to a Gospel-State, though the Precepts enjoyning them be always in Force, yet an actual Obedience to any of them may for a Season be suspended, as the doing or for<g ref="char:EOLhyphen"/>bearing of them subserves to the main Scope of the Gospel. And I do not find (upon a strict Consideration) that any one of them (except it be the as<g ref="char:EOLhyphen"/>sembling together of such as fear God, jointly to celebrate his Worship) is to
+<pb n="xi" facs="tcp:137204:6"/>be preferr'd before another; either as to their Nature, or Time of perfor<g ref="char:EOLhyphen"/>mance, as to render any of them (which are done with the Spirit and Un<g ref="char:EOLhyphen"/>derstanding of the Worshipper) unac<g ref="char:EOLhyphen"/>ceptable to God, because any other of them (which he understands not, that he is obliged also to do) is not first per<g ref="char:EOLhyphen"/>formed.</p>
+            <p n="9">9. I readily grant, both as to the Mi<g ref="char:EOLhyphen"/>nistry and Reception of Members to Church-Fellowship, that where any Per<g ref="char:EOLhyphen"/>son is approved upon Trial, Elected by proper Persons, and Ordained by im<g ref="char:EOLhyphen"/>position of the Hands of the Presbytery, such a Person is duly qualified for Rule and Administration of the Word and Sacraments: And so likewise where Repentance and Faith precede, and Baptism succeeds, such a Person is qua<g ref="char:EOLhyphen"/>lified for Church-Communion in all o<g ref="char:EOLhyphen"/>ther Ordinances; and that this is the most approved and compleat Method, where it is or can be observed, and is not unnecessarily to be varied from, or neglected, because it tends very much to the well-being of every parti<g ref="char:EOLhyphen"/>cular Assembly or Church of Christi<g ref="char:EOLhyphen"/>ans: Yet I do not conceive such an ex<g ref="char:EOLhyphen"/>act
+<pb n="xii" facs="tcp:137204:7"/>Process absolutely necessary to the constituting of such an Assembly, any more than Baptism is to the Being of a Believer.</p>
+            <p>There are some Ordinances which cannot be observed, but in and by an Assembly of Christians joining toge<g ref="char:EOLhyphen"/>ther for such Purposes. And if there cannot upon any Emergency be such an Assembly, where there is no Baptism; nor any Preaching or Baptism, where there is no ordained Minister; then if the continued Line of Ordination to the Ministry, in any part of the World, be by Persecution or Apostacy discon<g ref="char:EOLhyphen"/>tinued, or never was to such part of the World before extended; though many Believers may be in such Places, yet no Christian Assembly can be there constituted, or any Ordinances appro<g ref="char:EOLhyphen"/>priated to a Church-State there exer<g ref="char:EOLhyphen"/>cised. Which Opinion I take to be rather against, than agreeable with the general Scope of the Gospel, (every Minute Collection of Christians for the Purposes aforesaid, being a Step towards the gathering together the Children of God which are scattered abroad) and would also render useless those
+<pb n="xiii" facs="tcp:137204:7"/>Rules and Characters given in the Scrip<g ref="char:EOLhyphen"/>tures, which (otherwise) do and may suffice in all Cases and Exigences, to revive, renew, and put in order (in any Age or Place) what is wanting for the due constituting and governing of particular Assemblies or Churches.</p>
+            <p>Now, <hi>Sir,</hi> whether you are of the same Opinion with me, or no; yet you may perceive, by what I have premised, that I account my self obliged very highly to esteem of you in Love for your Work's sake. And do only crave leave to say to you, as the Faithful Brethren at <hi>Coloss</hi> were exhorted by the Apostle to say to their Minister <hi>Archip<g ref="char:EOLhyphen"/>pus,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And pro<g ref="char:EOLhyphen"/>ceed to my Expostulation before-men<g ref="char:EOLhyphen"/>tioned. Why did you not Baptize my Daughter in that Form which is most agreeable with the proper Sense of the Word used in the Precept of Insti<g ref="char:EOLhyphen"/>tution by our Lord, most antient in the Christian Church, and less liable to Exception than any other Form?</p>
+            <p n="1">1. I acknowledg it is not consistent with Prudence or good Manners, to
+<pb n="xiv" facs="tcp:137204:8"/>presume to know what Answer you will make (if you will vouchsafe to make any) before I have a conveni<g ref="char:EOLhyphen"/>ent Season to confer with you about this Matter: But it becomes me to ren<g ref="char:EOLhyphen"/>der a Reason, and make my Apology for putting such a Question to you: Which I shall therefore begin, in the words of Sir <hi>Norton Knatchbull,</hi> who for his Dignity was in his Life-time ho<g ref="char:EOLhyphen"/>noured, and for his profound Judg<g ref="char:EOLhyphen"/>ment, Learning and Piety, much more highly and deservedly esteemed among such as are competent Judges of his ela<g ref="char:EOLhyphen"/>borate Studies, and cautious handling of the Sacred Texts, in his Annotations on 1 <hi>Pet.</hi> 3.20, 21. <q>
+                  <hi>Tinctio est formalis cau<g ref="char:EOLhyphen"/>sa Baptismi;</hi> Dipping is the formal Cause of Baptism: <hi>Baptismus est verus Typus Resurrectionis idque proprie solum;</hi> Bap<g ref="char:EOLhyphen"/>tism is properly and solely a Type of the Resurrection. And to this Truth do give their Suffrage the Apostles, Fathers, School-men, almost all Inter<g ref="char:EOLhyphen"/>preters, Antient and Modern, and even our <hi>English</hi> Church, which enjoins Dip<g ref="char:EOLhyphen"/>ping—<hi>In quibusdam Casibus permittens tantum ritum Perfulsionis;</hi> Allowing only in some Cases the Liberty of Sprinkling or Perfusion.</q>
+            </p>
+            <p n="2">
+               <pb n="xv" facs="tcp:137204:8"/> 2. Every Christian is concerned to give heed (at all Times, and in all Places) to the Apostle's solemn Charge, 2 <hi>Tim.</hi> 2.14. <hi>That he strive not about Words to no profit, but to the sub<g ref="char:EOLhyphen"/>verting of the Hearers.</hi> And also to his Exhortation, <hi>Chap.</hi> 1.13. <hi>To hold fast</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>the express Form of sound Words which he hath heard of him.</hi> And certainly this Exhortation is in especial manner to be heeded, where the essen<g ref="char:EOLhyphen"/>tial Form of instituted Worship de<g ref="char:EOLhyphen"/>pends upon the Words and proper sig<g ref="char:EOLhyphen"/>nification of the Words of Institution, as they are interpreted and explained in the Obedience given thereto, Imme<g ref="char:EOLhyphen"/>diately succeeding the giving forth of the Command.</p>
+            <p n="3">3. According to the Apostle's Do<g ref="char:EOLhyphen"/>ctrine, after the Ascension of our Lord, the Ordinance of the Lord's Supper, and that of Baptism, represent (in di<g ref="char:EOLhyphen"/>vers respects) the same things, and re<g ref="char:EOLhyphen"/>quire the same internal spiritual Work and Exercise of Faith in every Person yielding an external Obedience to the Precept, <hi>scil.</hi> An Examination and An<g ref="char:EOLhyphen"/>swer of a good Conscience towards God; and discerning of our Lord's
+<pb n="xvi" facs="tcp:137204:9"/>Body, as dead, buried, and raised a<g ref="char:EOLhyphen"/>gain; and the Believer's Death (with him) unto Sin; and his being raised a<g ref="char:EOLhyphen"/>gain (with him) unto newness of Life, through the Faith of the Operation of God. 1 <hi>Cor.</hi> 11. v. 26, 28, 29. 1 <hi>Pet.</hi> 3.21. <hi>Rom.</hi> 6.3, 4, 5. <hi>Col.</hi> 2.11, 12. As our Reception of Baptism is a visi<g ref="char:EOLhyphen"/>ble Manifestation that we have been instructed in, and have imbraced the Christian Creed, which is taught and summarily comprehended in that my<g ref="char:EOLhyphen"/>sterious Name <hi>of the Father, of the Son, and of the Holy Spirit,</hi> whereinto we are Baptized, and whereby we do pro<g ref="char:EOLhyphen"/>fessedly subject our selves to observe all things that our Lord hath commanded, and are visibly incorporated into the Mystical Body of Christ, 1 <hi>Cor.</hi> 12.13. So in the Reception of the other Ordi<g ref="char:EOLhyphen"/>nance, (when Believers come toge<g ref="char:EOLhyphen"/>ther [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] to break Bread) they visibly manifest their being and continuing in the same Faith, Love, Communion, and Hope.</p>
+            <p n="4">4. Herein the Observance of these Ordinances differ: That of <hi>Communi<g ref="char:EOLhyphen"/>cating at the Lord's Table,</hi> is often; that of <hi>Baptism,</hi> if once rightly admi<g ref="char:EOLhyphen"/>nistred,
+<pb n="xvii" facs="tcp:137204:9"/>is not (necessarily) to be repeated. Yet if what is recorded in Scripture be well weighed, <hi>That</hi> Jerusalem, <hi>and all</hi> Judea, <hi>and all the Region round about</hi> Jordan <hi>w<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re bap<g ref="char:EOLhyphen"/>tized of</hi> John: <hi>That Jesus made and baptized more Disciples than</hi> John: <hi>That before our Lord's Death, many of his Disciples went back and walked no more with him: That at the next Feast of Pentecost after the Ascension of our Lord, there were in one Day bap<g ref="char:EOLhyphen"/>tized, and added to the Church, a<g ref="char:EOLhyphen"/>bout three thousand: That soon after the Number</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>of the Men were about five thousand. That when the Apostle</hi> Paul <hi>came after<g ref="char:EOLhyphen"/>wards to</hi> Jerusalem, <hi>the Apostle</hi> James <hi>and the Elders told him, He saw</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>how many ten thou<g ref="char:EOLhyphen"/>sands of the Jews believed.</hi>
+            </p>
+            <p>A probable Opinion may arise from hence, That many of those who were baptized before the Death of our Lord, might, after his Re<g ref="char:EOLhyphen"/>surrection and Ascension, upon their more clear Conviction and Instructi<g ref="char:EOLhyphen"/>on, be baptized again, in obedi<g ref="char:EOLhyphen"/>ence to the Commission given to his
+<pb n="xviii" facs="tcp:137204:10"/>Apostles. And consequently if any Person be baptized who hath not heard, or been instructed in the Do<g ref="char:EOLhyphen"/>ctrine of the Trinity, or hath had Water sprinkled or poured upon him, under the Notion of Baptism, and shall afterwards be more per<g ref="char:EOLhyphen"/>fectly instructed, and attain to a com<g ref="char:EOLhyphen"/>petent Knowledg, both of the right Form of that Ordinance, and of the Divine Mystery of that Name into which he ought to be in a right man<g ref="char:EOLhyphen"/>ner baptized; and shall thereupon, to satisfy his own Conscience, desire to be so baptized: I see no Reason why a Rebaptization, or right-bap<g ref="char:EOLhyphen"/>tizing, may not in such or the like Cases be admitted; especially consi<g ref="char:EOLhyphen"/>dering withal, how difficult it may seem for any Person, but of an ordi<g ref="char:EOLhyphen"/>nary Capacity, positively to deter<g ref="char:EOLhyphen"/>mine whether the words in <hi>Acts</hi> 19. v. 5. <hi>[when they heard, they were bapti<g ref="char:EOLhyphen"/>zed]</hi> are to be taken as spoken by the Holy Apostle <hi>Paul,</hi> of such as were baptized by <hi>John the Baptist;</hi> or by the Evangelist St. <hi>Luke,</hi> of those to whom the Apostle then spake, and on whom he then also laid his Hands, <hi>v.</hi> 6.</p>
+            <p n="5">
+               <pb n="xix" facs="tcp:137204:10"/> 5. An actual Obedience to a posi<g ref="char:EOLhyphen"/>tive Institution may for special Cau<g ref="char:EOLhyphen"/>ses be (as Circumcision was during the <hi>Israelites</hi> forty Years travel in the Wilderness) suspended, rather than the Persons Life or Health to be thereby endangered, or the establish<g ref="char:EOLhyphen"/>ed Rite to be therefore changed. Where infirm or tender Persons have been pressed in Conscience to yield Obedience to the Ordinance of Bap<g ref="char:EOLhyphen"/>tism, the <hi>Bath</hi> in <hi>England,</hi> and warm Water in the <hi>Netherlands,</hi> hath (as I have been credibly informed) been made use of by Persons who have been of my Acquaintance. And though I am not for any need<g ref="char:EOLhyphen"/>less Innovations in Rites relating to Divine Worship; nor in more than forty Years past, ever knew of any Person's suffering Damage in their Health, by being duly baptized in cold Water, either in Summer or Winter; yet in regard to that per<g ref="char:EOLhyphen"/>petual Rule, That <hi>God will have Mer<g ref="char:EOLhyphen"/>cy, and not Sacrifice;</hi> I dare not cen<g ref="char:EOLhyphen"/>sure such as conceive there is a Neces<g ref="char:EOLhyphen"/>sity for making Water warm, for this Sacred, as well as for a common Use.
+<pb n="xx" facs="tcp:137204:11"/>The Quality of the Water, as to Coldness or Warmth, whether by the Heat of the Sun, Stoves or common Fires, being not so considerable in the Ministration of this Ordinance, as the Quantity of Water, that it be sufficient to immerse the Body of the Person (who comes to be bapti<g ref="char:EOLhyphen"/>zed) therein: For by the decent ob<g ref="char:EOLhyphen"/>servance of the External Rite, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) according to Order, the Mystical Sense is duly represented, and may be afterwards spiritually im<g ref="char:EOLhyphen"/>proved, as is frequent in the Holy Scriptures.</p>
+            <p n="6">6. If it should be granted that the Word <hi>Baptism,</hi> as applied to Vessels, Beds, or any other common Use, may be taken in a larger Sense, than strict<g ref="char:EOLhyphen"/>ly to signify Immersion in Water, (al<g ref="char:EOLhyphen"/>though the common way of cleansing both the Inside and Outside of such things be to dip them in Water) yet unless it can be shewn from the Holy Scriptures, that the Word was or may be taken for Sprinkling, or pour<g ref="char:EOLhyphen"/>ing Water upon a Person, as well in the Administration of this Ordi<g ref="char:EOLhyphen"/>nance, as in any such common Use,
+<pb n="xxi" facs="tcp:137204:11"/>I conceive there cannot be from thence drawn any solid Argument for the Change of this Sacred Rite. And as to the figurative Use of this Word, (as it is applied to such as had the Promise of being Baptized in, or with the Spirit, [<hi>Mat.</hi> 3.11. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] or were to undergo the Baptism of Sufferings or Afflictions) it implies a far grea<g ref="char:EOLhyphen"/>ter Measure of the Gifts and Graces of the Spirit, than is the Portion of every Believer, who is enabled by the Spirit to call <hi>Jesus the Lord;</hi> or of <hi>Chastenings,</hi> than is the Portion of every Son whom the <hi>Lord receives.</hi> So that this figurative Use of the Term <hi>Baptism,</hi> is so far from gi<g ref="char:EOLhyphen"/>ving any countenance to the muta<g ref="char:EOLhyphen"/>tion of the primitive Use of <hi>Immer<g ref="char:EOLhyphen"/>sion in Water,</hi> to that of <hi>Sprinkling with Water;</hi> that it rather explains and confirms to us, that the Ordinance of Baptism, as common to all Believers, was and ought to be administred by Immersion.</p>
+            <p>
+               <hi>Sir,</hi> If I had been timely advertised of my Daughter's Inclinations to join with your Assembly, and of the Me<g ref="char:EOLhyphen"/>thod
+<pb n="xxii" facs="tcp:137204:12"/>in which you thereupon intend<g ref="char:EOLhyphen"/>ed to proceed, in order to her Ad<g ref="char:EOLhyphen"/>mission, I would have used my Endea<g ref="char:EOLhyphen"/>vours to have prevented you of this Trouble: But since that was not done, and that I have lately consen<g ref="char:EOLhyphen"/>ted that a <hi>Brief Treatise of the Proper Subject and Administration of Baptism,</hi> which I writ about seven Years since to the late Lord Bishop of <hi>Lincoln,</hi> should be published; I pray you (at your leisure) vouchsafe to read it; and to accept in good part this my Apology for addressing my self in this manner to you: With this assu<g ref="char:EOLhyphen"/>rance, that notwithstanding our dif<g ref="char:EOLhyphen"/>ferent Apprehensions in any of the Matters aforementioned, I am</p>
+            <closer>
+               <signed>Your entire Friend and Servant<lb/> in the Lord,<lb/>
+                  <hi>R. D.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="xxiii" facs="tcp:137204:12"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>YOƲ have here presented to your serious Consideration, a true Account, both of the Judg<g ref="char:EOLhyphen"/>ment and Practice of Ʋs, and many others called <hi>Anabaptists.</hi> The Author of the ensuing Treatise having, to the knowledg of some of us, had his Conversation with them for above forty Years. His Moderation towards all Per<g ref="char:EOLhyphen"/>sons fearing God, (though differing in Opinion from him) is well known to all that have had acquaintance with him. We believe few have with more diligence examined the Grounds of his own and our Opinions, wherein we differ from others. Some of which (for our Vindication, and not to increase Contentions) he commu<g ref="char:EOLhyphen"/>nicated to the Worthy and Learned late Bishop of <hi>Lincoln,</hi> some Years before his
+<pb n="xxiv" facs="tcp:137204:13"/>Death. These having been made known and read to us, we conceive may be of use to silence and remove from us the unjust Reproaches cast upon us by our Adver<g ref="char:EOLhyphen"/>saries, not only formerly, but of late al<g ref="char:EOLhyphen"/>se. And we have therefore desired, and be hath consented, that they should be published.</p>
+            <p>What is asserted by the Author, hath always been attested, both by our Doctrine and Conversation. We love and honour all Men fearing God, whether they agree with, or disagree from us in their Opini<g ref="char:EOLhyphen"/>ons concerning Baptism. We heartily pray that the Spirit of Bitterness may cease, and that whereto we have attained, we may all walk in Love; and that living in Love and Peace one with the other, the God of Peace may be with us all.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>William Kiffin,</item>
+                     <item>Joseph Maisters,</item>
+                     <item>William Collins,</item>
+                     <item>Richard Allen.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:137204:13"/>
+            <head>To the Right Reverend <hi>Thomas</hi> Lord Bishop of <hi>Lincoln.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THE Ground of my hum<g ref="char:EOLhyphen"/>ble tendering these ensu<g ref="char:EOLhyphen"/>ing Pages to your Lord<g ref="char:EOLhyphen"/>ship, is your declared Condescension to peruse any brief Treatise that should be presented to you concerning the proper Subject and Administration of Baptism.</p>
+            <p>I have in all my Collections (which for a great part are taken out of a Treatise on the <hi>Acts,</hi>
+               <note place="margin">Acta S. Apost<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lorum ad lit<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ram explica<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> written by the Learned Dr. <hi>Du<g ref="char:EOLhyphen"/>veil</hi>) endeavoured Brevity, that
+<pb facs="tcp:137204:14"/>I might not be tedious to your Lordship, having confidence in your Integrity, as well as ap<g ref="char:EOLhyphen"/>proved Ability, to supply my O<g ref="char:EOLhyphen"/>missions and Defects, if it be re<g ref="char:EOLhyphen"/>quisite, for the Truth's sake.</p>
+            <p>Before I repeat the Arguments brought by those called <hi>Anabap<g ref="char:EOLhyphen"/>tists,</hi> in defence of their Opinion, I crave the liberty of a short Pre<g ref="char:EOLhyphen"/>face concerning this Sect amongst us.</p>
+            <p>It has been their Lot (as of others in other Parts and Ages of the World) to be described by their Adversaries under very black Characters, as guilty of the most detestable Heresies and high<g ref="char:EOLhyphen"/>est Crimes.</p>
+            <p>Woful Experience has in all Ages demonstrated, that Bap<g ref="char:EOLhyphen"/>tism, whether once only, or (as of Old) often repeated, does not
+<pb n="3" facs="tcp:137204:14"/>of it self, without purifying Faith, effect a real cleansing from Sin; the Heart of an Unbeliever, like that of <hi>Simon Magus</hi> bapti<g ref="char:EOLhyphen"/>zed, being not right before God, remains in the Gall of Bitterness, and Bond of Iniquity. Yet I see no natural or necessary Conse<g ref="char:EOLhyphen"/>quence in this, That a Submis<g ref="char:EOLhyphen"/>sion in sincerity of Heart to the due Administration of this Ordi<g ref="char:EOLhyphen"/>nance, (which is an Evidence of the Baptized's Repentance of his Sins past, and an Obligation to Holiness and Righteousness for the time to come) should dispose any Man to the entertaining of any Heretical Opinion, or com<g ref="char:EOLhyphen"/>mission of any heinous Crime.</p>
+            <p>It appertains not to me to ac<g ref="char:EOLhyphen"/>cuse or vindicate any particular Persons who have been or are of this Sect: My Intent herein is, only to remind your Lordship of Matter of Fact; That as they
+<pb n="4" facs="tcp:137204:15"/>have been in general accused, so they have many times in general also published their Vindicati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>I have been informed by credi<g ref="char:EOLhyphen"/>ble Persons, of some of this Sect being in your Lordship's Diocess, in and long before the beginning of the Reign of King <hi>James</hi> I. And I have seen an Humble Sup<g ref="char:EOLhyphen"/>plication (reprinted <hi>Anno</hi> 1662. with another short Treatise, in<g ref="char:EOLhyphen"/>tituled, <hi>Persecution for Religion judged and condemned,</hi> but before printed, <hi>Anno</hi> 1620.) presented to King <hi>James,</hi> and the Parlia<g ref="char:EOLhyphen"/>ment then sitting, which sets forth, amongst other things, <q>That their Miseries were long and lingring Imprisonments for many Years, in divers Coun<g ref="char:EOLhyphen"/>ties of <hi>England.</hi>
+               </q> And con<g ref="char:EOLhyphen"/>cludes thus; <q>We cease not to pray for the King, and his Son, and his Seed, and this whole
+<pb n="5" facs="tcp:137204:15"/>High and Honourable Assem<g ref="char:EOLhyphen"/>bly; now and always calling the All-seeing God to witness, that we are your Majesty's Loyal Subjects; not for Fear only, but for Conscience-sake.</q> Unjustly called <hi>Anabaptists,</hi> which is the usual Stile of such as em<g ref="char:EOLhyphen"/>brace the Opinion of baptizing Adult Persons only.</p>
+            <p>And as for those of this pre<g ref="char:EOLhyphen"/>sent Age, since the Year 1640, (among many of whom I have had Conversation for about 34 past) altho it has been frequently, and especially of late in Pamphlets, by the Authors of them, affir<g ref="char:EOLhyphen"/>med, That they have a Catalogue of Names, and can tell the pre<g ref="char:EOLhyphen"/>cise Times wherein, and Actions which were done by the Men of this Sect, (referring to the gene<g ref="char:EOLhyphen"/>rality of them, and instancing in such things as tend to the render<g ref="char:EOLhyphen"/>ing them obnoxious to Humane
+<pb n="6" facs="tcp:137204:16"/>Societies); Yet upon strict En<g ref="char:EOLhyphen"/>quiry, I could never find any Circumstances of Truth that might give Countenance to such Accusations, other than the charg<g ref="char:EOLhyphen"/>ing of the whole Sect, from the Instances of a very inconsiderable number of particular Persons a<g ref="char:EOLhyphen"/>mong them; and therein also with such things as were done by them, (perhaps several Years) either before they entertained this Opinion, or after they had deserted it, or were ejected out of their Assemblies.</p>
+            <p>I presume your Lordship has seen the Confessions of Faith and Apologies, which within the a<g ref="char:EOLhyphen"/>foresaid Time, upon special Oc<g ref="char:EOLhyphen"/>casions, have been once and again made and published by the Lea<g ref="char:EOLhyphen"/>ders of this Sect, with their Names subscribed; wherein they have vindicated themselves and their Assemblies in general, from the
+<pb n="7" facs="tcp:137204:16"/>Aspersions cast on them by their Adversaries.</p>
+            <p>That your Lordship may make the better Judgment of the Dis<g ref="char:EOLhyphen"/>ciples and State of this Sect, con<g ref="char:EOLhyphen"/>cerning whom I write this, I crave leave to bring to your re<g ref="char:EOLhyphen"/>membrance, some of their Lea<g ref="char:EOLhyphen"/>ders, and the Occasions which prepared the way for the encrease of their Numbers.</p>
+            <p>About 38 Years since, in the Heat of our late Troubles, <hi>Epis<g ref="char:EOLhyphen"/>copacy</hi> being laid aside, and <hi>Pres<g ref="char:EOLhyphen"/>bytery</hi> only (as it were by way o Experiment) for a Season at<g ref="char:EOLhyphen"/>tempted, but never in a National Way prosecuted with Effect; eve<g ref="char:EOLhyphen"/>ry Man was at liberty to pursue the Perswasion of his own Mind, as to entring into Church-fellow<g ref="char:EOLhyphen"/>ship in distinct Congregations, and therein to join with such as he conceived came nearest to the
+<pb n="8" facs="tcp:137204:17"/>Primitive Pattern in Worship and Discipline.</p>
+            <p>About that Time, and a little after, there were many Ministers, some who had been before Or<g ref="char:EOLhyphen"/>dained, and others who were ad<g ref="char:EOLhyphen"/>mitted to Parochial and other Publick Charges: Among whom (of my Acquaintance) were Mr. <hi>Tombes,</hi> sometime Preacher at the <hi>Temple,</hi> Mr. <hi>Christopher Blackwood</hi> in <hi>Kent,</hi> Mr. <hi>Benjamin Cox</hi> at <hi>Bedford,</hi> Mr. <hi>Edward Har<g ref="char:EOLhyphen"/>rison,</hi> Mr. <hi>Daniel Dyke,</hi> and some others, in or near <hi>Hertfordshire;</hi> Mr. <hi>Hanserd Knollys,</hi> and many others, who did openly profess, and several of them write and publish their Opinions concern<g ref="char:EOLhyphen"/>ing the proper Subject and Man<g ref="char:EOLhyphen"/>ner of Baptism.</p>
+            <p>Some of them voluntarily left their Parochial Charges and Be<g ref="char:EOLhyphen"/>nefices, as not approving the bap<g ref="char:EOLhyphen"/>tizing of Infants, and collected di<g ref="char:EOLhyphen"/>stinct
+<pb n="9" facs="tcp:137204:17"/>Congregations of such as agreed with them in this Doctrine of Baptism; which by a Succes<g ref="char:EOLhyphen"/>sion of ordained Ministers, in the Place of such as are dead, re<g ref="char:EOLhyphen"/>main to this Day.</p>
+            <p>By these Means, and by the Writings and Example of Mr. <hi>Henry Lawrence,</hi> a Gentleman of liberal Education, and of divers other Learned and Pious Persons, many (and my self among the rest) were induced to enquire into this Opinion; and finding the Doctrine and Examples of these worthy Guides (in all Re<g ref="char:EOLhyphen"/>spects well qualified for the Mini<g ref="char:EOLhyphen"/>stry) to concur with the Holy Scriptures, and Primitive Practice of the Christian Church, they thereupon consorted with them in the observance of this and other Ordinances of Divine Worship.</p>
+            <p>And consequently in the Year 1649, and for about ten Years af<g ref="char:EOLhyphen"/>ter,
+<pb n="10" facs="tcp:137204:18"/>the embracing these Opini<g ref="char:EOLhyphen"/>ons with sobriety, being no Bar to the continuance of such in Pub<g ref="char:EOLhyphen"/>lick Employment, who were o<g ref="char:EOLhyphen"/>therwise found capable of it. And the non-prosecution of Penal Laws against such Opinions, for those ten Years, setting each Per<g ref="char:EOLhyphen"/>son free in that respect from the common Obstacle of Dammage in their Liberty or Estates, their Congregations in many Cities and Counties of <hi>England</hi> were greatly multiplied.</p>
+            <p>And in that Time did this Opi<g ref="char:EOLhyphen"/>nion spread it self also into some of the Regiments of Horse and Foot in the Army; and in 1650, and afterwards, some professing this Opinion, were called from their private Employments, and preferred to Commands at Sea; (among others) Capt. <hi>Mildmay</hi> to Command the Admiral Flag<g ref="char:EOLhyphen"/>ship under the late Duke of <hi>Al<g ref="char:EOLhyphen"/>bemarle,</hi>
+               <pb n="11" facs="tcp:137204:18"/>when he was one of the Generals at Sea. Capt. <hi>Pack</hi> to Command the Flag-ship under Sir <hi>George Ascue,</hi> Reer-Admiral. Sir <hi>John Harman</hi> to Command the Admiral Flag-ship under his Royal Highness the Duke of <hi>York.</hi>
+            </p>
+            <p>But notwithstanding some of this Sect had that Countenance given them, as I have mentioned, by such as had the principal ma<g ref="char:EOLhyphen"/>nagement of Affairs; yet this Sect in general (as they have published in their <hi>Apologies</hi>) were the least of any sort of People concerned in any Vicis<g ref="char:EOLhyphen"/>situdes of Government that hap<g ref="char:EOLhyphen"/>pen'd among us.</p>
+            <p>My Stations within the afore<g ref="char:EOLhyphen"/>mentioned ten Years, gave me Opportunity to know most Per<g ref="char:EOLhyphen"/>sons and Actions of Note, in re<g ref="char:EOLhyphen"/>ference as well to Civil as Marti<g ref="char:EOLhyphen"/>al Affairs, and particularly those
+<pb n="12" facs="tcp:137204:19"/>of this Sect. And although in and after the Year 1649, their Numbers did increase, insomuch as the principal Officers in divers Regiments of Horse and Foot, became <hi>Anabaptists:</hi> And parti<g ref="char:EOLhyphen"/>cularly in <hi>Oliver Cromwel</hi>'s own Regiment of Horse, when he was Captain-General of all the Parliament's Forces; and in the D. of <hi>Albemarle</hi>'s own Regiment of Foot, when he was General of all the English Forces in <hi>Scotland;</hi> yet by the best Information I could have, there were not at any time, before the Year 1649, twenty <hi>Anabaptists</hi> in any sort of Command in the whole Army: And until after the Year 1648, there were no more than only two, <hi>viz.</hi> the afore-mentioned Mr. <hi>Lawrence,</hi> and Mr. <hi>John Fiennes,</hi> one of the old Lord <hi>Say</hi>'s Sons, who made profession of this Opinion, chosen into the
+<pb n="13" facs="tcp:137204:19"/>Commons House of Parliament. And both these did in that Year, and in the Life-time of the late K. <hi>Charles</hi> I. (as I have been credibly informed) voluntarily depart from that Parliament, as not ap<g ref="char:EOLhyphen"/>proving their Proceedings against the Person of the King, and sat no more in it, but lived privately until about six Years afterwards, (a new Form of Government be<g ref="char:EOLhyphen"/>ing then framed, and in appear<g ref="char:EOLhyphen"/>ance settled) Mr. <hi>Lawrence</hi> was called again into publick Employ<g ref="char:EOLhyphen"/>ment.</p>
+            <p>I confess to your Lordship, I never heard of any <hi>Anabaptist</hi> in the King's Army, during the Contest between his Majesty and the Parliament: And perhaps be<g ref="char:EOLhyphen"/>cause there were some in the Par<g ref="char:EOLhyphen"/>liament's Army, and none in the King's Army, some Persons have from thence taken occasion to af<g ref="char:EOLhyphen"/>firm, That the Opinion of Ana<g ref="char:EOLhyphen"/>baptism
+<pb n="14" facs="tcp:137204:20"/>in the Church, is oppo<g ref="char:EOLhyphen"/>site to Monarchy in the State. But I cannot reach the Ground of this Notion. For,</p>
+            <p n="1">1. What is reported in Histo<g ref="char:EOLhyphen"/>ry concerning the <hi>Anabaptists</hi> in <hi>Munster</hi> and Upper-<hi>Germany,</hi> can<g ref="char:EOLhyphen"/>not in colour of Reason be ap<g ref="char:EOLhyphen"/>plied to the generality of <hi>Ana<g ref="char:EOLhyphen"/>baptists</hi> in <hi>England;</hi> for they have, from time to time,
+<note place="margin">
+                  <hi>Two Apo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of the</hi> A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tists, <hi>prin<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> 1660.</note> in their <hi>Apo<g ref="char:EOLhyphen"/>logies,</hi> declared an utter Abhor<g ref="char:EOLhyphen"/>rence of such impious Doctrines, and their bloody Consequences.</p>
+            <p>It is true, as before is mention<g ref="char:EOLhyphen"/>ed, that this Opinion being no general Bar to the continuance of such as did embrace it in Publick Employment; though I have cause to believe one special Rea<g ref="char:EOLhyphen"/>son of disbanding an intire Regi<g ref="char:EOLhyphen"/>ment in the Earl of <hi>Essex</hi> his Ar<g ref="char:EOLhyphen"/>my was,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>msteads <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t.</note> for that the Colonel en<g ref="char:EOLhyphen"/>tertained and gave Countenance to Separatists, and some <hi>Anabap<g ref="char:EOLhyphen"/>tists.</hi>
+               <pb n="15" facs="tcp:137204:20"/>And that which occasioned <hi>Oliver Cromwel</hi> (after he usurped the Government of Lord Prote<g ref="char:EOLhyphen"/>ctor) to discharge at once all the principal Officers of his own Re<g ref="char:EOLhyphen"/>giment, (upon other Pretences) was, for that they were all <hi>Ana<g ref="char:EOLhyphen"/>baptists.</hi> And it being also true, as themselves declare in the fore<g ref="char:EOLhyphen"/>cited <hi>Apologies,</hi>
+               <q>That the Sub<g ref="char:EOLhyphen"/>jection that they gave to the Powers which were over them, was out of Conscience to the general Law of Obedience; and the Affection which they mani<g ref="char:EOLhyphen"/>fested therein, did arise from the enjoyment of that due Li<g ref="char:EOLhyphen"/>berty and Protection which they had in Matters of Reli<g ref="char:EOLhyphen"/>gion.</q> But yet to clear them<g ref="char:EOLhyphen"/>selves of any Charge that was or might be alleged against them, as if they were Enemies to Monar<g ref="char:EOLhyphen"/>chy; many of the principal Lead<g ref="char:EOLhyphen"/>ers of them did, with an unani<g ref="char:EOLhyphen"/>mous
+<pb n="16" facs="tcp:137204:21"/>Consent, in one of the Con<g ref="char:EOLhyphen"/>fessions of Faith published by them, in the Year 1647, and se<g ref="char:EOLhyphen"/>veral times since, freely acknow<g ref="char:EOLhyphen"/>ledg,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nf.</hi> p. 7. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>3, 4.</note>
+               <q>That Kingly Govern<g ref="char:EOLhyphen"/>ment, established, guided and bounded by just and wholesome Laws, was both allowed by God, and a good Accommoda<g ref="char:EOLhyphen"/>tion to Men.</q>
+            </p>
+            <p>I knew divers of them, after his Majesty's Restauration, who were continued and advanced in Civil Employments; but I do not know that any of them, un<g ref="char:EOLhyphen"/>to whom any Publick Employ<g ref="char:EOLhyphen"/>ment under his Majesty hath been offered, who did refuse it: Nor did I ever hear of any one of them that was ever dismissed of their Employ, for any Infide<g ref="char:EOLhyphen"/>lity, or other Matter evil in it self.</p>
+            <p n="2">2. These latter Instances do sufficiently evince, that they are
+<pb n="17" facs="tcp:137204:21"/>not of the Temper of the <hi>Ana<g ref="char:EOLhyphen"/>baptists</hi> of Lower-<hi>Germany,</hi> who (like to the <hi>Rechabites</hi> in another Case) put themselves under a voluntary Engagement, or else account it unlawful in any Case to bear Arms or Office. So that the <hi>Anabaptists</hi> in <hi>England</hi> cannot be compared to these.</p>
+            <p n="3">3. The generality of them do, as Opportunity offers, embrace and exercise a Communion with other Christians in the Articles of their Faith, and in as many Religious Exercises as they do jointly agree in, notwithstanding their different Opinions concern<g ref="char:EOLhyphen"/>ing the proper Subject and Order of Baptism; as is, among other Evidences of this kind, also mani<g ref="char:EOLhyphen"/>fest in the Appendix to their Con<g ref="char:EOLhyphen"/>fession, printed <hi>An.</hi> 1677. So that they cannot justly be charged with the Crime in this Point objected against the <hi>Anabaptists</hi>
+               <pb n="18" facs="tcp:137204:22"/>in <hi>Donatus</hi> his Time, <hi>Cent.</hi> 4.</p>
+            <p>And they have, in all their A<g ref="char:EOLhyphen"/>pologies, complained of the In<g ref="char:EOLhyphen"/>juries done, by objecting the Crimes of some few, and very few amongst them, to them all in general, although they have publickly declared their Innocen<g ref="char:EOLhyphen"/>cy, with detestation of such Crimes; so that upon the whole, and upon weighing what they have to say for their Opinion and Practice in the Point of Baptism, and for the Communion they hold with one another subsequent thereupon, I hope they will, in your Lordship's Charity, (so far as their Conversation sutes with their Doctrine) be admitted a<g ref="char:EOLhyphen"/>mong the Number of Sincere Christians. And that their par<g ref="char:EOLhyphen"/>ticular Perswasion may be no Bar in the way of your Lordship's Charity towards them, I shall now proceed briefly to state their
+<pb n="19" facs="tcp:137204:22"/>Opinion, with the Proofs in ge<g ref="char:EOLhyphen"/>neral, upon which they establish the Truth of it.</p>
+            <p>The substance of what is as<g ref="char:EOLhyphen"/>serted by them, is, That those who do profess Repentance to<g ref="char:EOLhyphen"/>ward God, Faith in, and Obedi<g ref="char:EOLhyphen"/>ence to our Lord Jesus, are the proper Subjects of Baptism.</p>
+            <p>That the due Administration of this Ordinance, is by Immer<g ref="char:EOLhyphen"/>sion, or dipping the Person in Water: And that they find no Rule or Example in Scripture for baptizing any Person in any other manner, or without an actual Declaration of Faith.</p>
+            <p>For Proof hereof they al<g ref="char:EOLhyphen"/>lege,</p>
+            <p n="1">1. The Doctrine and Practice of <hi>John the Baptist,</hi> and of the Disciples of our Lord, whilst he was present with them before his Crucifixion; <hi>Mat.</hi> 3.2. <hi>And saying, Repent ye; for the Kingdom of
+<pb n="20" facs="tcp:137204:23"/>Heaven is at hand.</hi> Ver. 6. <hi>And were baptized of him in</hi> Jordan, <hi>confessing their Sins.</hi> Ver. 11. <hi>I indeed baptize you with Water unto Repentance; but he that cometh af<g ref="char:EOLhyphen"/>ter me is mightier than I, whose Shoes I am not worthy to bear; he shall baptize you with the Holy Ghost, and with Fire.</hi> Ver. 13. <hi>Then cometh Jesus from</hi> Galilee <hi>to</hi> Jor<g ref="char:EOLhyphen"/>dan <hi>unto</hi> John, <hi>to be baptized of him.</hi> Ver. 16. <hi>And Jesus, when he was baptized, went up straight<g ref="char:EOLhyphen"/>way out of the Water; and lo, the Heavens were opened unto him, and he saw the Spirit of God de<g ref="char:EOLhyphen"/>scending like a Dove, and lighting upon him.</hi> Mark 1.4, 5. John <hi>did baptize in the Wilderness, and preach the Baptism of Repentance, for the remission of Sins. And there went out unto him all the Land of</hi> Judea, <hi>and they of</hi> Jerusalem, <hi>and were all baptized of him in the Ri<g ref="char:EOLhyphen"/>ver of</hi> Jordan, <hi>confessing their Sins.</hi>
+               <pb n="21" facs="tcp:137204:23"/>Ver. 9. <hi>And it came to pass in those days, that Jesus came from</hi> Na<g ref="char:EOLhyphen"/>zareth <hi>of</hi> Galilee, <hi>and was bapti<g ref="char:EOLhyphen"/>zed of</hi> John <hi>in</hi> Jordan. Luke 3.3. <hi>And he came into all the Countrey about</hi> Jordan, <hi>preaching the Bap<g ref="char:EOLhyphen"/>tism of Repentance for the remis<g ref="char:EOLhyphen"/>sion of Sins.</hi> Ver. 16. John <hi>an<g ref="char:EOLhyphen"/>swered, saying unto them all, I in<g ref="char:EOLhyphen"/>deed baptize you with Water; but one mightier than I cometh, the Latchet of whose Shoes I am not worthy to unloose; he shall baptize you with the Holy Ghost, and with Fire.</hi> Ver. 21. <hi>Now when all the People were baptized, it came to pass that Jesus also being bapti<g ref="char:EOLhyphen"/>zed, and praying, the Heaven was opened.</hi> Acts 19.4, 5. <hi>Then said</hi> Paul, John <hi>verily baptized with the Baptism of Repentance, saying un<g ref="char:EOLhyphen"/>to the People, That they should be<g ref="char:EOLhyphen"/>lieve on him which should come af<g ref="char:EOLhyphen"/>ter him, that is, on Christ Jesus. When they heard this, they were bap<g ref="char:EOLhyphen"/>tized
+<pb n="22" facs="tcp:137204:24"/>in the Name of the Lord Je<g ref="char:EOLhyphen"/>sus.</hi> John 3.22, 23. <hi>After these things came Jesus and his Dis<g ref="char:EOLhyphen"/>ciples into the Land of</hi> Judea, <hi>and there he tarried with them and baptized. And</hi> John <hi>also was bap<g ref="char:EOLhyphen"/>tizing in</hi> Enon, <hi>near to</hi> Salim, <hi>be<g ref="char:EOLhyphen"/>cause there was much Water there; and they came and were baptized.</hi> Chap. 4.1. — <hi>Jesus made and baptized more Disciples than</hi> John.</p>
+            <p n="2">2. The Words of positive and sovereign Institution, after the Resurrection of our Lord; <hi>Mat.</hi> 28.19, 20. <hi>Go ye therefore and teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and lo, I am with you alway, even unto the end of the World.</hi> Amen. Mark 16.16. <hi>He that believeth, and is baptized, shall be saved; but he that believeth not, shall be damned.</hi>
+            </p>
+            <p n="3">
+               <pb n="23" facs="tcp:137204:24"/> 3. The Apostles and Evange<g ref="char:EOLhyphen"/>lists Instructions, Resolutions of Questions on this Subject and Pra<g ref="char:EOLhyphen"/>ctice, correspondent with the Command, next and immediate<g ref="char:EOLhyphen"/>ly after it was given. <hi>Acts</hi> 2.38. <hi>Then</hi> Peter <hi>said unto them, Repent and be baptized every one of you, in the Name of Jesus Christ, for the Remission of Sins, and ye shall re<g ref="char:EOLhyphen"/>ceive the Gift of the Holy Ghost.</hi> Chap. 8.12. <hi>But when they believed</hi> Philip, <hi>preaching the things con<g ref="char:EOLhyphen"/>cerning the Kingdom of God, and the Name of Jesus Christ, they were baptized both Men and Wo<g ref="char:EOLhyphen"/>men.</hi> Ver. 36-39. <hi>And as they went on their way, they came unto a certain Water; and the Eunuch said, See here is Water, what doth hinder me to be baptized? And</hi> Phi<g ref="char:EOLhyphen"/>lip <hi>said, If thou believest with all thine Heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God.
+<pb n="24" facs="tcp:137204:25"/>And he commanded the Chariot to stand still; and they went down both into the Water, both</hi> Philip <hi>and the Eunuch, and he baptized him. And when they were come up out of the Water, the Spirit of the Lord caught away</hi> Philip, <hi>that the Eunuch saw him no more; and he went on his way rejoicing.</hi> Chap. 18.7, 8. <hi>And he departed thence, and entred into a certain Man's House, named</hi> Justus, <hi>one that worshipped God, whose House joined hard to the Sy<g ref="char:EOLhyphen"/>nagogue. And</hi> Crispus <hi>the chief Ruler of the Synagogue, believed on the Lord, with all his House: and many of the Corinthians, hearing, believed, and were baptized.</hi>
+            </p>
+            <p n="4">4. The manifold Use and Im<g ref="char:EOLhyphen"/>provement, which after many Christian Churches were settled, the Apostles made in their Epi<g ref="char:EOLhyphen"/>stles to them, taken from the due Qualifications required in Persons to be baptized, and built upon
+<pb n="25" facs="tcp:137204:25"/>the due Administration of that Ordinance, wherein are shewed the Mystical Significancy there<g ref="char:EOLhyphen"/>of.</p>
+            <p n="1">1. As it is by the Prayer, Sti<g ref="char:EOLhyphen"/>pulation or Interrogation of the Baptized's good Conscience there<g ref="char:EOLhyphen"/>in Godward, the Figure of Sal<g ref="char:EOLhyphen"/>vation through the Resurrection of Jesus Christ, which otherwise by the Water's washing away of the Filth of the Flesh in Baptism it would not be. Acts 22.16. <hi>And now why tarriest thou? Arise, and be baptized, and wash away thy Sins, calling on the Name of the Lord.</hi> Chap. 9.11. <hi>And the Lord said un<g ref="char:EOLhyphen"/>to him, Arise, and go into the Street, which is called</hi> Straight, <hi>and en<g ref="char:EOLhyphen"/>quire in the House of</hi> Judas, <hi>for one called</hi> Saul <hi>of</hi> Tarsus; <hi>for behold, he prayeth.</hi> And 1 <hi>Pet.</hi> 3.21. <hi>The like Figure whereunto, even Bap<g ref="char:EOLhyphen"/>tism, doth also now save us, (not the putting away the Filth of the
+<pb n="26" facs="tcp:137204:26"/>Flesh, but the Answer of a good Conscience towards God) by the Re<g ref="char:EOLhyphen"/>surrection of Jesus Christ.</hi>
+            </p>
+            <p n="2">2. As it is (to the understand<g ref="char:EOLhyphen"/>ing of the baptized Person) or<g ref="char:EOLhyphen"/>dained to be a Sign of Fellowship with Christ in his Death and Re<g ref="char:EOLhyphen"/>surrection. Rom. 6.3, 4, 5. <hi>Know ye not, that so many of us as were baptized into Jesus Christ, were baptized into his Death? Therefore we are buried with him by Baptism into Death; that like as Christ was raised up from the Dead by the Glory of the Father, even so we also should walk in newness of Life. For if we have been planted together in the likeness of his Death, we shall be also in the likeness of his Re<g ref="char:EOLhyphen"/>surrection.</hi> And <hi>Col.</hi> 2.12. <hi>Bu<g ref="char:EOLhyphen"/>ried with him in Baptism, wherein also ye are risen with him through the Faith of the operation of God, who hath raised him from the Dead.</hi> And of engrafting into that My<g ref="char:EOLhyphen"/>stical
+<pb n="27" facs="tcp:137204:26"/>Body the Church, whereof Christ is the Head. Gal. 3.27, 28. <hi>For as many of you as have been baptized into Christ, have put on Christ. There is neither Jew nor Greek, there is neither Bond nor Free, there is nei<g ref="char:EOLhyphen"/>ther Male nor Female; for ye are all one in Christ Jesus.</hi> And 1 <hi>Cor.</hi> 12.13. <hi>For by one Spirit we are all baptized into one Body, whether we be Jews or Gentiles, whe<g ref="char:EOLhyphen"/>ther we be Bond or Free; and have been all made to drink into one Spi<g ref="char:EOLhyphen"/>rit.</hi> And consequently a Reproof and Conviction (in the Bapti<g ref="char:EOLhyphen"/>zed's own Conscience) of the Crime, in case he be guilty, of making a Schism in the Church; as, 1 <hi>Cor.</hi> 1.13. <hi>Is Christ divided? was</hi> Paul <hi>crucified for you? or were ye baptized in the Name of</hi> Paul? Or separating from the Church, as in the Epistle of <hi>Jude,</hi> ver. 19. <hi>These be they who separate them<g ref="char:EOLhyphen"/>selves,
+<pb n="28" facs="tcp:137204:27"/>sensual, having not the Spi<g ref="char:EOLhyphen"/>rit.</hi> Heb. 10.25. <hi>Not forsaking the assembling of our selves toge<g ref="char:EOLhyphen"/>ther, as the manner of some is, but exhorting one another; and so much the more, as ye see the Day approaching.</hi>
+            </p>
+            <p n="3">3. As the Baptized is presumed to know himself to be thereby obliged in general to a perseve<g ref="char:EOLhyphen"/>rance in Holiness, a growth in Grace and Knowledg of the My<g ref="char:EOLhyphen"/>steries of God, even of the Father and of Christ, and to the yield<g ref="char:EOLhyphen"/>ing a ready Obedience of Faith to all other Doctrines and Precepts of our Lord. Rom. 6.3. <hi>Know ye not, that so many of us as were baptized into Jesus Christ, were baptized into his Death?</hi> Col. 2.12. <hi>Buried with him in Baptism, wherein also ye are risen with him through the Faith of the Operation of God, who hath raised him from the Dead.</hi> And <hi>Heb.</hi> 6.1, 2, 3.
+<pb n="29" facs="tcp:137204:27"/>
+               <hi>Therefore leaving the Principles of the Doctrine of Christ, let us go on unto Perfection; not laying again the Foundation of Repentance from dead Works, and of Faith towards God. Of the Doctrine of Baptisms, and of laying on of Hands, and of the Resurrection of the Dead, and of eternal Judgment. And this will we do, if God permit.</hi>
+            </p>
+            <p>My Lord, if these Scriptures be rightly interpreted and appli<g ref="char:EOLhyphen"/>ed by these called <hi>Anabaptists:</hi> And if it be also true, as they have often asserted, That there is not in the whole Scriptures any Rule given to baptize, or any plain Instance of any Persons being baptized in any other manner, or without being first instructed in the Doctrine, and making confes<g ref="char:EOLhyphen"/>sion of Faith, I cannot conceive why this should not be accepted, without any other additional Te<g ref="char:EOLhyphen"/>stimonies or Arguments, as a suf<g ref="char:EOLhyphen"/>ficient
+<pb n="30" facs="tcp:137204:28"/>Defence for such as (with a due observance of all other Rules of Christianity, general and special) do in this Point thus be<g ref="char:EOLhyphen"/>lieve and do: Nor why they should be therefore censured, ei<g ref="char:EOLhyphen"/>ther as varying from the first In<g ref="char:EOLhyphen"/>stitution, or as being deficient in any Proof necessary to maintain this their Opinion and Pra<g ref="char:EOLhyphen"/>ctice.</p>
+            <p>I take it to be agreed, among the generality of Reformed Chri<g ref="char:EOLhyphen"/>stians, that in the Holy Scriptures are contained Directions, as well concerning all essential Parts of Worship, as Doctrines, necessary to be believed. And it may be thence safely concluded, that without the help of any unwrit<g ref="char:EOLhyphen"/>ten Traditions, or any other Writings, the Holy Scriptures divinely inspired and written for our Learning always, (since they were first written) have been,
+<pb n="31" facs="tcp:137204:28"/>are, and will be, through Faith in Christ Jesus, equally powerful to render any other Person, as well as <hi>Timothy,</hi> wise to Salvati<g ref="char:EOLhyphen"/>on. And to compleat any other Minister of Christ for his Work, whether it be for Doctrine or In<g ref="char:EOLhyphen"/>struction in Righteousness, re<g ref="char:EOLhyphen"/>proof of Errors, or setting to right and restoring the true Wor<g ref="char:EOLhyphen"/>ship of God, if any of his In<g ref="char:EOLhyphen"/>stitutions, through Negligence, Omission, Incogitancy, humane Traditions, frequent and long-continued Examples in the Church, or any other Means have not been rightly observed. And if it be admitted, that no Power or Authority was ever committed to any Doctors, Assemblies, or General Councils, purposely or knowingly, in any Transcript of the Scriptures, to vary one Let<g ref="char:EOLhyphen"/>ter from the Original Record, or in any Translation to vary from
+<pb n="32" facs="tcp:137204:29"/>the true and genuine Sense of the Original Text: And that not eve<g ref="char:EOLhyphen"/>ry individual Letter, Syllable or Word in a Transcript or Transla<g ref="char:EOLhyphen"/>tion, but the Sense of Scripture is of Divine Authority, and may be rendred and preached now as well as in the Apostles Time, to every Nation under Heaven,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>2.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 11.</note> in their respective proper Langua<g ref="char:EOLhyphen"/>ges. And that notwithstanding all Accidents of various Lections, or different Interpretations, thrô the oscitancy of Transcribers, or various Sentiments of Transla<g ref="char:EOLhyphen"/>tors thrô humane Frailty; yet thrô the admirable Providence and Grace of God, watching over and assisting his faithful Bishops and Teachers in the Church, we have, in all necessary Points re<g ref="char:EOLhyphen"/>lating to Doctrine, Worship, and Conversation, the genuine Sense and Meaning of the Holy Scrip<g ref="char:EOLhyphen"/>tures continued to us, as they were
+<pb n="33" facs="tcp:137204:29"/>at first revealed, and divinely in<g ref="char:EOLhyphen"/>spired into, and delivered over by the Holy Pen-men thereof, as I am abundantly satisfied (I thank God for it) that we have. And if it be also admitted, that the Church hath no more Power to change the Rites and Forms of Sacraments instituted by our Lord, than they have to change his Word and Law; for that as the one contains the Audible, so the other the Visible Sign of the Di<g ref="char:EOLhyphen"/>vine Will: Then I humbly con<g ref="char:EOLhyphen"/>ceive, in the decision of this Con<g ref="char:EOLhyphen"/>troversy between the <hi>Anabaptists</hi> and <hi>Pedobaptists,</hi> we may safely cast out of our Thoughts all in<g ref="char:EOLhyphen"/>tercurrent Centuries between the Primitive and the present State of the Church; and without having regard to any intervening Canon, Tradition, or nice School-Distinction, follow that vene<g ref="char:EOLhyphen"/>rable Scripture-Example of the chief of the Fathers and the
+<pb n="34" facs="tcp:137204:30"/>Priests, in a Case, which in ma<g ref="char:EOLhyphen"/>ny respects may be said to be of the like Nature, upon their re<g ref="char:EOLhyphen"/>turn out of the Babylonish Cap<g ref="char:EOLhyphen"/>tivity; who when they and the People were assembled to read and understand the Words of the Law, which God had command<g ref="char:EOLhyphen"/>ed by <hi>Moses,</hi> and found written therein, in what manner the Rites of the Feast of Taberna<g ref="char:EOLhyphen"/>cles were to be observed by the <hi>Israelites,</hi> they regulated and kept the Ceremonies thereof, not by former Examples, but by the Prescript Form, which had not been so done for about a thousand Years before. Neh. 8.14, 15, 16, 17. <hi>And they found written in the Law which the Lord had com<g ref="char:EOLhyphen"/>manded by</hi> Moses, <hi>that the Chil<g ref="char:EOLhyphen"/>dren of</hi> Israel <hi>should dwell in Booths, in the Feast of the seventh Month: And that they should publish and proclaim in all their Cities, and in</hi> Jerusalem, <hi>saying, Go forth unto
+<pb n="35" facs="tcp:137204:30"/>the Mount, and fetch Olive-branches, and Pine-branches, and Myrtle-bran<g ref="char:EOLhyphen"/>ches, and Palm-branches, and Bran<g ref="char:EOLhyphen"/>ches of thick Trees, to make Booths, as it is written. So the People went forth, and brought them, and made themselves Booths, every one upon the Roof of his House, and in their Courts, and in the Courts of the House of God, and in the Street of the Water-gate, and in the Street of the Gate of</hi> Ephraim. <hi>And all the Congregation of them that were come again out of the Captivi<g ref="char:EOLhyphen"/>ty, made Booths, and sat under the Booths: for since the Days of</hi> Jeshua <hi>the Son of</hi> Nun, <hi>unto that Day, had not the Children of</hi> Is<g ref="char:EOLhyphen"/>rael <hi>done so: and there was very great Gladness.</hi>
+            </p>
+            <p>I take Baptism to have been generally reputed the initiating Ordinance, or Admission of such into the Visible Church, who having been before instructed in, and converted to the Christian
+<pb n="36" facs="tcp:137204:31"/>Faith, have from that internal Perswasion, made an externl Profession of Faith in, and sub<g ref="char:EOLhyphen"/>jection to the Person, Doctrine, and Commands of the Lord Je<g ref="char:EOLhyphen"/>sus. Not that I reckon it in or<g ref="char:EOLhyphen"/>der of Nature or Time, the first Act of Worship which any such perform towards him; for if any thing may in that respect be said to be first, I should rather attri<g ref="char:EOLhyphen"/>bute the Priority to the Recep<g ref="char:EOLhyphen"/>tion in the Heart, of that incor<g ref="char:EOLhyphen"/>ruptible Seed, the Word of God, by which a Person is born again: And the demonstration of that spiritual Life to be the first breath<g ref="char:EOLhyphen"/>ing after God, thrô Christ, in holy Desires and Prayer. Nor do I think Instruction in all the Fun<g ref="char:EOLhyphen"/>damentals of Christianity, or in the utmost Extent or Significancy of Baptism it self, of any more ab<g ref="char:EOLhyphen"/>solute necessity than in the begin<g ref="char:EOLhyphen"/>ning of Christian Religion, (for in many, if not in each individual
+<pb n="37" facs="tcp:137204:31"/>Person, Christianity may in some respects have as much its begin<g ref="char:EOLhyphen"/>ning now, as when Christ was first preached among the <hi>Gen<g ref="char:EOLhyphen"/>tiles). Apollos</hi> was mighty in the Scriptures, and an accurate Tea<g ref="char:EOLhyphen"/>cher of the things of the Lord, knowing only the Baptism of <hi>John,</hi>
+               <note place="margin">Acts 18.24, 2<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> until <hi>Aquila</hi> and <hi>Priscilla</hi> expounded to him the Way of the Lord more exquisitely.
+<note place="margin">Acts 19.1, 7<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> A De<g ref="char:EOLhyphen"/>ficiency is also mentioned among the Disciples at <hi>Ephesus.</hi> A com<g ref="char:EOLhyphen"/>petent knowledg of the Grounds of that Obedience, which in each individual Act of Worship is yielded to God, is requisite in him that so worships, to render it ac<g ref="char:EOLhyphen"/>ceptable; for God is a Spirit, and seeketh and reputeth such for true Worshippers of him, who do worship him in Spirit and in Truth. But there may be Errors on the right Hand as well as on the Left. God is jealous of his instituted Worship, and no Man
+<pb n="38" facs="tcp:137204:32"/>is exempt,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.4. 17.</note> by the Dignity of his Person, or Eminency of his Gifts, from yielding Obedience thereun<g ref="char:EOLhyphen"/>to, in due order and manner re<g ref="char:EOLhyphen"/>quired. It is very remakable, that <hi>Moses,</hi> the reputed Son of King <hi>Pharaoh</hi>'s Daughter, educated in all the Learning of the <hi>Egyptians,</hi> althô God had eminently appeared to him, shewed him divers Mira<g ref="char:EOLhyphen"/>cles, made him signal Promises of his Presence and Assistance, ap<g ref="char:EOLhyphen"/>pointed him to be the Leader of his People: Yet after all this, the Lord met him in his Journey, and sought to slay him. And by the Context it is evident,
+<note place="margin">Exod. 4.24, 25, 26.</note> that this Anger against him was for that he had neglected to circumcise his Son. Two Instances also we have in the New Testament, thô not of such Severity, yet such as serve to evidence, that it may be sometimes necessary to admonish those that are most eminently fa<g ref="char:EOLhyphen"/>voured of God, and endued with
+<pb n="39" facs="tcp:137204:32"/>the special Gifts of the Holy Spi<g ref="char:EOLhyphen"/>rit, that they defer not that Obe<g ref="char:EOLhyphen"/>dience which they ought to yield to his instituted Worship, parti<g ref="char:EOLhyphen"/>cularly this Ordinance of Bap<g ref="char:EOLhyphen"/>tism. Ordinarily at the first preach<g ref="char:EOLhyphen"/>ing of this Gospel, Baptism in Wa<g ref="char:EOLhyphen"/>ter, did precede the Baptism of the Spirit,
+<note place="margin">Mat. 3.11.</note> and conferring of spe<g ref="char:EOLhyphen"/>cial Gifts, (although the latter of these was always preferred before the other as most Eminent). But <hi>Ananias</hi> was sent to <hi>Saul</hi> of the Lord Jesus, who had before ap<g ref="char:EOLhyphen"/>peared to him,
+<note place="margin">Acts 9.17.</note> that by putting on of his Hands (as appears by the Text) he might receive his Sight, and be filled with the Holy Spirit. And this was done, not only before his Baptism in Water; but by comparison of this Place with <hi>Acts</hi> 22.16. there seems to have been, by <hi>Ananias</hi>'s Question, <hi>Why tarriest thou?</hi> at least a necessary stirring of him up to an immediate discharge of his Duty therein. And
+<pb n="40" facs="tcp:137204:33"/>the like we may observe in <hi>Corne<g ref="char:EOLhyphen"/>lius</hi> and his Kinsmen,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.10.24-33.</note> and near Friends, on whom, whilst the A<g ref="char:EOLhyphen"/>postle <hi>Peter</hi> was preaching to them, the Gift of the Holy Spi<g ref="char:EOLhyphen"/>rit was poured out, so that they spake with Tongues,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>7, 48.</note> and mag<g ref="char:EOLhyphen"/>nified God: which as it did suf<g ref="char:EOLhyphen"/>ficiently evidence they were qua<g ref="char:EOLhyphen"/>lified for it; so also that by this Anticipation of the Baptism of the Spirit, Baptism in Water might not be deferred by them. The Apostle, not by way of Te<g ref="char:EOLhyphen"/>stimony and Exhortation only, as in <hi>Act.</hi> 2.40. and in other common Cases, but as better suting with their before-declared Disposition, and the present Occasion, expresly commanded them to be baptized.
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, 34.</note>
+            </p>
+            <p>Touching things relating to the common Faith, and common Sal<g ref="char:EOLhyphen"/>vation of Christians, it has al<g ref="char:EOLhyphen"/>ways been allowed, by the most eminently Learned and Orthodox Bishops and Doctors, that the
+<pb n="41" facs="tcp:137204:33"/>Scriptures are easy to be under<g ref="char:EOLhyphen"/>stood, and were so plainly in these Points penn'd by the Prophets, Apostles &amp; Evangelists, that every Person who will read, and diligent<g ref="char:EOLhyphen"/>ly search and ponder them, might thereby of himself learn what are therein spoken of these things.</p>
+            <p>In the humble Supplication a<g ref="char:EOLhyphen"/>fore-mentioned,
+<note place="margin">Ch. 4. p. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> several Passages are cited to this Purpose out of the Writings of <hi>Clemens Alexandri<g ref="char:EOLhyphen"/>nus, Austin, Chrysostom, Justin Martyr, Theodoret,</hi> and others. And in the present Case, touching the proper Subject and Manner of Baptism, it seems not to me (I speak with Submission) very ma<g ref="char:EOLhyphen"/>terial to enquire concerning the different Opinions of Men, or how their Controversies hereabout have been decided, by any General Council since the Apostles Days, because each Person's Faith and Practice herein, in every succeed<g ref="char:EOLhyphen"/>ing Generation to the End of the
+<pb n="42" facs="tcp:137204:34"/>World, is alike to be founded up<g ref="char:EOLhyphen"/>on, and regulated by the Scripture, as was theirs who did succeed im<g ref="char:EOLhyphen"/>mediately, and were next to the Apostles. The Scriptures in these Points, are least of all liable to be mistaken, when they are taken by such as read them, as if sent to them immediately by the Hands of the Apostles and Evangelists, and by such as hear them read o<g ref="char:EOLhyphen"/>penly in the Church, as if that Ser<g ref="char:EOLhyphen"/>vice was performed by such as had so received them, in obedience to the Apostle's strict Charge to that purpose, 1 <hi>Thess.</hi> 5.27. <hi>I charge you by the Lord, that this Epistle be read unto all the Holy Brethren.</hi>
+            </p>
+            <p>I do not write this to derogate from, or diminish any part of that Honour that is due, and ought to be given to those who are pious and learned <hi>Overseers</hi> in the Lord's Vineyard. The Wisdom of God did foresee it necessary to establish Rulers, Pastors and Teachers in
+<pb n="43" facs="tcp:137204:34"/>his Church, and to qualify them with sutable Authority and Gifts, as well for the good Government, Ordering and Edifying of the Bo<g ref="char:EOLhyphen"/>dy of Christ, as on their behalf to watch against and discover false Doctrines, and false Teachers, who by transforming themselves into Angels of Light, seek all Occasions to destroy the Flock, remove the antient Foundations of the House of God, and to introduce damna<g ref="char:EOLhyphen"/>ble Heresies, and Doctrines of De<g ref="char:EOLhyphen"/>vils; the detection whereof is not within the compass of an ordina<g ref="char:EOLhyphen"/>ry Capacity: Therefore in this respect, especially even now, when the ravening Wolves stood watch<g ref="char:EOLhyphen"/>ing for the Moment wherein they might seize their Prey, is your Lordship deservedly rank'd with the foremost of those, whose words are the more excellent and accep<g ref="char:EOLhyphen"/>table, because upright,
+<note place="margin">Prov. 2<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and words of Truth,
+<note place="margin">Eccles.<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 10, 11.</note> spoken in season by a Master of Collections. And the
+<pb n="44" facs="tcp:137204:35"/>Grace and good Providence of God, that qualified and stirred up your Lordship, upon such a speci<g ref="char:EOLhyphen"/>al Occasion, to detect, and expose to open view, the Opinions and Principles of such false Teachers, in their native Deformity, (which renders them so abominable, that the Disciples of those who are the Fathers of them, are ashamed to own them) is the more remark<g ref="char:EOLhyphen"/>able, and calls for an humble, hear<g ref="char:EOLhyphen"/>ty and thankful Acknowledgment from all those on whose behalf this was done.</p>
+            <p>These, and all such Labours as have a tendency, either to detect erroneous Doctrines, or reduce the Doctrines of Christianity to their prime and genuine Purity, that interpret and help others to un<g ref="char:EOLhyphen"/>derstand aright the Holy Scrip<g ref="char:EOLhyphen"/>tures of Truth,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>-8.</note> have been, and will be always of singular Use and Advantage to the Church of God, approved blessed, and the Authors
+<pb n="45" facs="tcp:137204:35"/>of them highly esteemed of all sincere Christians for their Work<g ref="char:EOLhyphen"/>sake.</p>
+            <p>But, my Lord, these and all faithful Guides, who teach their Hearers and Disciples pure Do<g ref="char:EOLhyphen"/>ctrine and Worship, speak to them in, and guide them to the Words of the Prophets and Apostles; so that by common Consent all are to be tried, judged and determin<g ref="char:EOLhyphen"/>ed by the Rule of Scripture. And in this respect it is, that this Sect of <hi>Anabaptists</hi> amongst us do say, <hi>That if the Doctrine of Baptism, as they teach it, and the Form of Baptism as they practise it, be ac<g ref="char:EOLhyphen"/>cording to the Scriptures, and pri<g ref="char:EOLhyphen"/>mitive Ʋse of the Christian Church, this alone is a sufficient Defence for them herein, although there should be no concurrent Testimony of any other Tradition, Custom, Decree of Council, or Opinion what<g ref="char:EOLhyphen"/>soever.</hi> Yet, my Lord, with this due <hi>Salvo</hi> to the sovereign and
+<pb n="46" facs="tcp:137204:36"/>sole Authority of Scripture, I see no cause they have (if Matters be duly weighed) to decline, or that they do indeed appeal from the Judgment of the Antient Fa<g ref="char:EOLhyphen"/>thers herein.</p>
+            <p>To evidence this on their be<g ref="char:EOLhyphen"/>half, I shall instance in a few of those many antient Testimonies which they allege as unquestiona<g ref="char:EOLhyphen"/>ble, and of such Arguments de<g ref="char:EOLhyphen"/>duced from thence, as to me seem very cogent and natural.</p>
+            <p n="1">1. That the general and very antient Usage of Sponsors or Sus<g ref="char:EOLhyphen"/>ceptors at the Baptism of Infants, to personate and answer to Arti<g ref="char:EOLhyphen"/>cles of the Christian Faith, as if the very Person to be baptized, is, be<g ref="char:EOLhyphen"/>yond Contradiction, an Evidence in it self of a general-received O<g ref="char:EOLhyphen"/>pinion among all that use this Custom with Understanding, that a confession of the principal Do<g ref="char:EOLhyphen"/>ctrines of the Christian Faith, made by the Person to be bapti<g ref="char:EOLhyphen"/>zed,
+<pb n="47" facs="tcp:137204:36"/>did, according to the first Institution, precede Baptism. But then the Reason alleged by this Sect, why they do not observe this Antient Custom, is, Because, they say, there are no foot-steps of this Practice to be found in the Scriptures, neither can they trace the Original of it any higher than the Time mentioned in the <hi>Ro<g ref="char:EOLhyphen"/>man Breviary,</hi> in their Service, the 11th day of <hi>January,</hi> celebrated in Memory of <hi>Hyginus</hi> Bishop of <hi>Rome, Anno Christi</hi> 153. who is therein acknowledged to be the first Institutor of Susceptors in Baptism; and is so also by the concurent Testimony of other Hi<g ref="char:EOLhyphen"/>storians.</p>
+            <p>And it is further alleged by them, as very probable,
+<note place="margin">Tertul. <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Bapt.</hi> cap<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>'s Admonition concerning the deferring of Infants Baptism till they could answer for them<g ref="char:EOLhyphen"/>selves, rather than to admit them to it by such Undertakers, was
+<pb n="48" facs="tcp:137204:37"/>occasioned by this Novel-In<g ref="char:EOLhyphen"/>vention of <hi>Hyginus,</hi> the one of them living till toward the latter end of the second Century, and the other at the same Time, or about the beginning of the Third.</p>
+            <p n="2">2. That Practice which at first was generally admitted by all sorts of Converts to the Faith, <hi>Jews</hi> and <hi>Gentiles,</hi> in all Places at the same Time, and in a con<g ref="char:EOLhyphen"/>tinued Succession from the Begin<g ref="char:EOLhyphen"/>ning, without any Dis<g ref="char:EOLhyphen"/>pute or Disagreement,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>is related by Father <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>h,</hi> in his French Hi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Church of <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>andria,</hi> Ch. 33. That <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Macaire,</hi> Bishop of <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>his,</hi> Secretary to <hi>Cos<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> the 3d of that Name, <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iarch to the <hi>Cophti,</hi> or <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>stians of <hi>Egypt,</hi> who <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cent. 8. says, <hi>That <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Primitive Times, Bap<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> was not administred in <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Church of</hi> Alexandria <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ce a Year, and that up<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>od-Friday, <hi>and only <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>se of</hi> 30 <hi>Years of Age.</hi>
+               </note>
+               <hi>scil.</hi> to baptize such as manifested a joyful Reception of the Word of Grace, and made a Confession of their Faith, is to be prefer<g ref="char:EOLhyphen"/>red, as agreeing with the first Institution and Primitive State of the Christian Church, be<g ref="char:EOLhyphen"/>fore that other Practice,
+<pb n="49" facs="tcp:137204:37"/>
+               <hi>scil.</hi> admitting Infants to Bap<g ref="char:EOLhyphen"/>tism by Sponsors, which obtained but by Degrees, and in some Places before others. And which from the first mention of that Use, successively for several Ages, if not to this very Age, hath been questioned, disputed, and some<g ref="char:EOLhyphen"/>times omitted by the Christian Parents,
+<note place="margin">Vid. <hi>Curceii.</hi>
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lig. Christi<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> institut. <hi>lib. <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cap.</hi> 12.</note> of some who afterwards were of great Eminency in the Church, who were not baptized until they were Adult, although Infant-Baptism was then admit<g ref="char:EOLhyphen"/>ted by others, as appears in the History of their Lives, <hi>viz. Gre<g ref="char:EOLhyphen"/>gory Nazianzen, Chrysostom, Con<g ref="char:EOLhyphen"/>stantine, Ambrose</hi> and <hi>Augustine.</hi>
+            </p>
+            <p>First, Teach all Nations,
+<note place="margin">
+                  <hi>Hieron.</hi> in <hi>Matt.</hi> 28.</note> then dip the Taught in Water; for it cannot be that the Body should receive the Sacrament of Baptism, unless the Soul first receive the Truth of Faith.</p>
+            <pb n="50" facs="tcp:137204:38"/>
+            <p> The Confession of Salva<g ref="char:EOLhyphen"/>tion goes before;
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Mag. de <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>itu Sancto. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> then follows Baptism sealing our Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p>Those who are to be baptized,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cilium La<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eum, Ann. <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> ought to learn and repeat the Creed to the Bishop or Presby<g ref="char:EOLhyphen"/>ter.</p>
+            <p>This Canon was confirmed in <hi>Constantine</hi>'s Time, at the sixth General Synod at <hi>Trullo,</hi> Canon 46.</p>
+            <p>As many as believe the Things preached by the Christians to be true,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>olog. <hi>Justin <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tyr,</hi> to the <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>p. <hi>Antonin.</hi>
+               </note> and promise to live ac<g ref="char:EOLhyphen"/>cordingly, are taught to Fast and Pray for the Remission of their Sins, (the Church also praying and fasting with them;) and then they are brought to a Place where Water is, and are bapti<g ref="char:EOLhyphen"/>zed; then they are brought and added to the Church, and receive the Lord's Supper.</p>
+            <pb n="51" facs="tcp:137204:38"/>
+            <p> None but the Adult of An<g ref="char:EOLhyphen"/>tient Time were used to be Bap<g ref="char:EOLhyphen"/>tized.
+<note place="margin">
+                  <hi>Lud. Vives</hi> i<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Aug.</hi> lib. 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Civ. Dei. c. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>The Words of <hi>Tertullian</hi> and <hi>Nazianzen,</hi>
+               <note place="margin">Baxter, <hi>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Proofs,</hi> P. 275</note> shew it was long be<g ref="char:EOLhyphen"/>fore all were agreed of the Time or Necessity of Baptizing In<g ref="char:EOLhyphen"/>fants before the Use of Reason, in case they were like to live to Maturity.</p>
+            <p n="3">3. That Form of Baptizing,
+<note place="margin">
+                  <hi>Sir</hi> Norton Knatchbull, <hi>large in his Notes on</hi> 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 3.21.</note> which is according to the com<g ref="char:EOLhyphen"/>mon acceptation of the Word and Usage of the Christian Church in its Primitive State, and represents all the material Points of Christian Doctrine,
+<note place="margin">
+                  <hi>Ambros.</hi> de <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tiand. <hi>Cap. Bern.</hi> Ser. 4<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> whereof it is a Type, <hi>scil.</hi> dip<g ref="char:EOLhyphen"/>ping the Person baptized in Wa<g ref="char:EOLhyphen"/>ter, to signify his Death unto Sin, Purification and Resurrection unto newness of Life, is to be ob<g ref="char:EOLhyphen"/>served rather than any other Form; which agrees only with one thing thereby signified, <hi>scil.</hi> Purifica<g ref="char:EOLhyphen"/>tion,
+<pb n="52" facs="tcp:137204:39"/>which is mentioned <hi>Heb.</hi> 10.22. <hi>(Let us draw near with a true Heart, in full assurance of Faith, having our Hearts sprink<g ref="char:EOLhyphen"/>led from an evil Conscience, and our Bodies washed with pure Water)</hi> rather as the Effect than Form of Baptism. There appearing no Reason why this Word, by which this Ordinance was instituted, should be therein taken in any other than a literal Sense; and if it be well observed, it may ap<g ref="char:EOLhyphen"/>pear, where-ever this Word is used in the Scriptures in a Meta<g ref="char:EOLhyphen"/>phorical Sense, thereby is repre<g ref="char:EOLhyphen"/>sented an overwhelming, plung<g ref="char:EOLhyphen"/>ing, or large pouring on, whe<g ref="char:EOLhyphen"/>ther it be of Sufferings, confer<g ref="char:EOLhyphen"/>ring Spiritual Gifts, or the <hi>Is<g ref="char:EOLhyphen"/>raelites</hi> passing through the bot<g ref="char:EOLhyphen"/>tom of the Sea, and no where to signify Sprinkling. It is affirm<g ref="char:EOLhyphen"/>ed by this Sect, That herein they have the concurrent Testimony
+<pb n="53" facs="tcp:137204:39"/>of many learned and approved Expositors, of those Passages of Scripture where this Word is to to be taken in a figurative Sense.</p>
+            <p>
+               <hi>Clement</hi> the 5th, is cited for the first, who at the second Synod at <hi>Ravenna,</hi> Anno 1305, approved, that Baptism might be given (no Necessity compelling) by sprink<g ref="char:EOLhyphen"/>ling.</p>
+            <p>
+               <hi>Johannes Bugenhagius Pomera<g ref="char:EOLhyphen"/>nus,</hi>
+               <note place="margin">
+                  <hi>Bugenhagius Pomeranus,</hi> circa finem <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>belli Germa<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ci, <hi>Anno</hi> 1 <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> editi.</note> when he saw at <hi>Hamburgh</hi> an Infant brought to Baptism, wrapped up in Swadling-clothes, and Water sprinkled upon its Head, was amazed; for that ex<g ref="char:EOLhyphen"/>cept in the Case of Necessity, for Persons sick in their Beds, he had neither seen nor heard, nor in any History read of any such thing. Whereupon there being a Convocation of all the Mini<g ref="char:EOLhyphen"/>sters, it was asked of Mr. <hi>John Fritz,</hi> who had been formerly Minister at <hi>Lubeck,</hi> How Baptism
+<pb n="54" facs="tcp:137204:40"/>was there administred? Who an<g ref="char:EOLhyphen"/>swered, Infants were there (as in all <hi>Germany</hi>) baptized naked: But he was ignorant how that pe<g ref="char:EOLhyphen"/>culiar Manner of Baptizing had crept in at <hi>Hamburgh.</hi> At length it was agreed amongst them, That they should send to know the Opinion of <hi>Luther,</hi> and the Divines at <hi>Wirtenberg</hi> in this Matter. Which being done, <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> writ back to <hi>Hamburgh,</hi> That this Sprinkling was an Abuse which ought to be removed; that thereupon Immersion was resto<g ref="char:EOLhyphen"/>red at <hi>Hamburgh.</hi>
+            </p>
+            <p>A Learned French Protestant,
+<note place="margin">Monsieur de la Roque, <hi>Minister of the Reformed Church at</hi> Roan.</note> in his Answer to the Treatise of Bishop <hi>Bossuet, De Communione sub utrâque specie,</hi> answers to an Ob<g ref="char:EOLhyphen"/>jection, concerning the Prote<g ref="char:EOLhyphen"/>stants baptizing by Sprinkling. That it is true they do so, but that it is certainly an Abuse; and that this Practice, which they
+<pb n="55" facs="tcp:137204:40"/>have retained from the Church of <hi>Rome,</hi> without well examin<g ref="char:EOLhyphen"/>ing it, renders their Baptism very defective.</p>
+            <p>Therein is corrupted the In<g ref="char:EOLhyphen"/>stitution, and the antient Cu<g ref="char:EOLhyphen"/>stom, and the Resemblance which it ought to have with Faith, Repentance, and Rege<g ref="char:EOLhyphen"/>neration. <hi>Monsieur Bossuet</hi>'s Re<g ref="char:EOLhyphen"/>mark, That Plunging had been used for 1300 Years, deserves a serious Reflection.</p>
+            <p>It was very ill done to abolish the first Usage authorised by so much strength of Reason, and for so many Ages. We are ob<g ref="char:EOLhyphen"/>liged to return to the antient Pra<g ref="char:EOLhyphen"/>ctice of the Church, and the In<g ref="char:EOLhyphen"/>stitution of Jesus Christ.</p>
+            <p n="4">4. They further alledg, That it appears by several Passages in Antient History, that the Varia<g ref="char:EOLhyphen"/>tions which were made from the first established Form of Baptism,
+<pb n="56" facs="tcp:137204:41"/>did not arise from any doubtful signification of the words, where<g ref="char:EOLhyphen"/>by this Ordinance was institu<g ref="char:EOLhyphen"/>ted, but from other collateral Considerations, <hi>viz.</hi> The Danger of Persons (Young or Old) dy<g ref="char:EOLhyphen"/>ing unbaptized; and thereupon the pouring or sprinkling Water upon them in their Beds, whence by reason of Sickness they could not rise, nor (without hazard of a real, instead of a representative dying) be baptized in any other manner.</p>
+            <p>Of this there needs no other Evidence,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. apud <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rian. Epist. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n ad Fabi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> apud Ni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. <hi>Lib.</hi> 6.<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>3.</note> than the many Questi<g ref="char:EOLhyphen"/>ons which were moved: Whe<g ref="char:EOLhyphen"/>ther their Baptism might be e<g ref="char:EOLhyphen"/>steemed Lawful or Compleat, who were baptized only by sprinkling, or pouring on of Wa<g ref="char:EOLhyphen"/>ter? Which received no other Answer, But that, Necessity urg<g ref="char:EOLhyphen"/>ing, it might be so esteemed.</p>
+            <pb n="57" facs="tcp:137204:41"/>
+            <p> My Lord, I am mindful of your Direction, not to be prolix, and have therefore omitted ma<g ref="char:EOLhyphen"/>ny material Quotations; which if you please to read a few Pages, you will find, in Dr. <hi>Duveil</hi>'s Treatise, on Chap. 2. &amp; 8. &amp; 18. of the <hi>Acts,</hi> exactly referred to, and much to the purpose. It is not my Intent to handle this Point by way of Controversy, but only to give some brief Hints, That as the Form of Bap<g ref="char:EOLhyphen"/>tism has been varied upon other Considerations, than what ap<g ref="char:EOLhyphen"/>pears in the Institution, so may it have been also with respect to the proper Subject of Bap<g ref="char:EOLhyphen"/>tism.</p>
+            <p>The Reverend Mr. <hi>Claude,</hi>
+               <note place="margin">
+                  <hi>Mr.</hi> Cla<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Hist. D<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Eng. Tr<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Part 4.<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> in his Historical Defence of the Refor<g ref="char:EOLhyphen"/>mation, answering to the Objecti<g ref="char:EOLhyphen"/>ons of the Author of Prejudices, about the Validity of his Baptism, cites this Passage; <hi>The Promise
+<pb n="58" facs="tcp:137204:42"/>is made to us, and to our Children; and to all that are afar off, even as many as the Lord shall call.</hi> And says, <q>That by a necessary Con<g ref="char:EOLhyphen"/>sequence, the Seal of that Pro<g ref="char:EOLhyphen"/>mise, which is Baptism, and all the other Rights of the Co<g ref="char:EOLhyphen"/>venant of Jesus Christ, belongs to us and to our Children, that is to say, to the truly Faith<g ref="char:EOLhyphen"/>ful.</q> I will not undertake to explain Mr. <hi>Claude</hi>'s Meaning in these Expressions, nor to set forth the Extent of the Covenant which he mentions.</p>
+            <p>There is a short Treatise, late<g ref="char:EOLhyphen"/>ly published by Mr.
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Cox <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Covenants, <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at</hi> Lon<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>683. <hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>by</hi> Du<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Acts 2.</note>
+               <hi>Nehemiah Cox,</hi> concerning the Covenants before the Law, on this Subject, which may give some Light into this Matter.</p>
+            <p>There may be a great Diffe<g ref="char:EOLhyphen"/>rence between a Direct, Imme<g ref="char:EOLhyphen"/>diate, and a Remote Right to what is comprehended in, or be<g ref="char:EOLhyphen"/>longs
+<pb n="59" facs="tcp:137204:42"/>to a Covenant; not to insist any thing on the Impro<g ref="char:EOLhyphen"/>priety or Congruity of a Seal, as applied to the Covenant of Grace under its various Mini<g ref="char:EOLhyphen"/>strations. <hi>David</hi>'s Son by <hi>Bath<g ref="char:EOLhyphen"/>sheba,</hi> (in the Time of the Law) dying at seven Days old, had no right to Circumcision. <hi>Shem</hi> and <hi>Lot</hi> were contemporary with <hi>Abraham; Job</hi> and his Friends (as is supposed) with <hi>Moses,</hi> all true Worshippers of God, and within the Covenant of Grace; yet nothing is spoken of Circumcision belonging to them, or any of their Posterity.</p>
+            <p>In the Resolution of the Case by the Apostle St. <hi>Paul,</hi>
+               <note place="margin">1 Cor.</note> con<g ref="char:EOLhyphen"/>cerning the Cohabitation of a Believer with an Unbeliever, in a married State, it is determin<g ref="char:EOLhyphen"/>ed by the Apostle, That the Un<g ref="char:EOLhyphen"/>believer is sanctified by the Be<g ref="char:EOLhyphen"/>liever: And thence he draws this
+<pb n="60" facs="tcp:137204:43"/>Inference, That their Children were Holy: Whence it seems plain, that to the Procreation of an Holy Seed, (in the Apostle's Sense) it was necessary that both Parents, as well the Believer as the Unbeliever, (in that conjunct State of Marriage) should be al<g ref="char:EOLhyphen"/>so reputed Holy. And therefore I do not discern how the Issue of both these should have any more immediate Right from thence to Baptism, than the Unbeliev<g ref="char:EOLhyphen"/>ing Parent. And if <hi>Christiani Fideles,</hi> and <hi>Baptizati,</hi> were an<g ref="char:EOLhyphen"/>tiently Terms promiscuously u<g ref="char:EOLhyphen"/>sed one for the other, then it may seem by that Character, a<g ref="char:EOLhyphen"/>mongst others given by <hi>Paul</hi> to <hi>Titus,</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> of a Person to be chosen an Elder, having believing Chil<g ref="char:EOLhyphen"/>dren, that it was not a common Case for all Christian Parents to have all their Children accoun<g ref="char:EOLhyphen"/>ted Faithful, and consequently
+<pb n="61" facs="tcp:137204:43"/>Baptized. But whensoever it proved so, it was a great Evi<g ref="char:EOLhyphen"/>dence of a right and succesful Education in the Fear of God, as was that of <hi>Timothy,</hi>
+               <note place="margin">2 Tim. 1.<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and ground of rejoicing to the Ser<g ref="char:EOLhyphen"/>vants of God; as were those Children of the Elect Lady that walked in the Truth.
+<note place="margin">2 John. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>But, my Lord, my Province is only to repeat briefly what occurs to mind in defence of their Opinion and Practice, who are stiled <hi>Anabaptists;</hi> and other<g ref="char:EOLhyphen"/>wise than what may be pre<g ref="char:EOLhyphen"/>sumed of necessary Consequence, (if the Terms and Form of this Ordinance be strictly limited) not to intermeddle with the Opi<g ref="char:EOLhyphen"/>nion of any that teach other<g ref="char:EOLhyphen"/>wise, but leave them therein, as I ought to do, to stand or fall to their own Master.</p>
+            <pb n="62" facs="tcp:137204:44"/>
+            <p> The <hi>Anabaptists</hi> in their own Case do say,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g. Magn. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>Epist.</hi> 37.</note>
+               <q>It is an Opinion that the Antients held, That what cannot be shewed by certain Signs to be rightly per<g ref="char:EOLhyphen"/>formed, cannot be said to be repeated.</q>
+            </p>
+            <p>In all doubtful Cases,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in 4 <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Dist. 3. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> N<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10.</note> as to Matter and Form, there are three special things to be observed.</p>
+            <p n="1">1. If possible to chuse the most safe Way.</p>
+            <p n="2">2. If it be not possible, to keep that which is next to the safest.</p>
+            <p n="3">3. The Impossibility ceasing, to supply warily what that did for the Season prohibit.</p>
+            <p>There is no doubt but they are again to be Baptized—who were not dipt in the true Sacrament of Baptism.
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>esius Sco<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ritan. In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Hist. lib. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. cap. 4 num. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>To conclude,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>omanus <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us Ec<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> Whoever under<g ref="char:EOLhyphen"/>takes to write against the anti<g ref="char:EOLhyphen"/>ent
+<pb n="63" facs="tcp:137204:44"/>manner of Instructing or Confession preceding Baptism,
+<note place="margin">Siffridus O<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nis Presbyt<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> assist<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in ips<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Acti<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lib. <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cap. <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> or Form used in Baptizing, hath this Task incumbent on him, To give some other proper In<g ref="char:EOLhyphen"/>terpretation of the Words of In<g ref="char:EOLhyphen"/>stitution, antient manner of <hi>Ca<g ref="char:EOLhyphen"/>techumens,</hi> use of large <hi>Baptiste<g ref="char:EOLhyphen"/>ria</hi> and <hi>Lavacres,</hi> and of the Methods and Care described for the decent Administration of this Ordinance, than is hither<g ref="char:EOLhyphen"/>to extant in the frequent men<g ref="char:EOLhyphen"/>tion of these things in Antiqui<g ref="char:EOLhyphen"/>ty.</p>
+            <p>If I have, through Inadver<g ref="char:EOLhyphen"/>tency, err'd in any Quotations, or in any thing not answered your Lordship's Expectation, I humbly beg your Lordship's Pardon. And if it may be without trouble to your Lord<g ref="char:EOLhyphen"/>ship, that I may, by the mean<g ref="char:EOLhyphen"/>est of your Servants, receive
+<pb n="64" facs="tcp:137204:45"/>your Lordship's further Com<g ref="char:EOLhyphen"/>mands herein, they shall readi<g ref="char:EOLhyphen"/>ly be obeyed by</p>
+            <closer>
+               <signed>Your Lordship's obliged<lb/> and<lb/> Obedient Servant,<lb/>
+                  <hi>Ri. Deane.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137204:45"/>
+         </div>
+      </body>
+   </text>
+</TEI>
